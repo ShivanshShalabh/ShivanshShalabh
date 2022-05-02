@@ -1,7 +1,7 @@
 [![MasterHead](https://shivanshshalabh.netlify.app/Images/GitHub%20Banner.svg)](https://github.com/ShivanshShalabh/)
 
 <h1 align="center">Hi 👋, I'm Shivansh Shalabh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate changemaker, high school senior and full stack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshshalabh&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshshalabh" /> </p>
@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Web Dev && Python**
 
-- 📫 How to reach me **shalabhshivansh@gmail.com**
+- 📫 How to reach me: **shalabhshivansh@gmail.com**
 
-- ⚡ Fun fact **I can centre a div without Stack Overflow 😂**
+- ⚡ Fun fact: **I can centre a div without Stack Overflow 😂**
   <br/>
 
 <h3 align="left">Connect with me:</h3>
