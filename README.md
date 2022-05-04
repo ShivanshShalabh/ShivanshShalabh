@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Web Dev && Python**
+- 💬 Ask me about **Web Dev 🌐 && Python 🐍**
 
 - 📫 How to reach me: **shalabhshivansh@gmail.com**
 
-- ⚡ Fun fact: **I started my CS journey during the lockdown**
+- ⚡ Fun fact: **I started my CS journey during the lockdown 👨‍💻**
   <br/>
 
 <h3 align="left">Connect with me:</h3>
