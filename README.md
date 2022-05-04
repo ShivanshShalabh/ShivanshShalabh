@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **shalabhshivansh@gmail.com**
 
-- ⚡ Fun fact: **I can centre a div without Stack Overflow 😂**
+- ⚡ Fun fact: **I started my CS journey during the lockdown**
   <br/>
 
 <h3 align="left">Connect with me:</h3>
