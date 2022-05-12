@@ -1,4 +1,4 @@
-[![MasterHead](https://shivanshshalabh.netlify.app/Images/GitHub%20Banner.svg)](https://github.com/ShivanshShalabh/)
+[![MasterHead](https://github.com/ShivanshShalabh/ShivanshShalabh/blob/main/GitHub%20Banner.svg)](https://github.com/ShivanshShalabh/)
 
 <h1 align="center">Hi 👋, I'm Shivansh Shalabh</h1>
 <h3 align="center">A passionate changemaker, high school senior and full stack web developer</h3>
