@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivansh-shalabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-shalabh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15942771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15942771" height="30" width="40" /></a>
-<a href="https://kaggle.com/shivanshshalabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivanshshalabh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivansh_345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivansh_345" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shivansh_345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivansh_345" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivansh-shalabh" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/512/linkedin.png" alt="shivansh-shalabh" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/15942771" target="blank"><img align="center" src="https://assets.stickpng.com/images/629e29a8974c5f2c1ceaa628.png" alt="15942771" height="40" width="40" /></a>
+<a href="https://kaggle.com/shivanshshalabh" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-filled-tal-revivo.png" alt="shivanshshalabh" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/shivansh_345" target="blank"><img align="center" src="https://img.icons8.com/plasticine/512/codechef.png" alt="shivansh_345" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/shivansh_345" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="shivansh_345" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,10 +49,19 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
+
 [![Shivansh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shivanshshalabh&&theme=xcode)](https://github.com/shivanshshalabh)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshshalabh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivanshshalabh" /></p>
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshshalabh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivanshshalabh" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshshalabh&show_icons=true&locale=en&theme=tokyonight" alt="shivanshshalabh" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshshalabh&&theme=tokyonight" alt="shivanshshalabh" /></p>
