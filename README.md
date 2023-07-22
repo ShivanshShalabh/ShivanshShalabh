@@ -50,9 +50,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
-[![Shivansh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shivanshshalabh&&theme=xcode)](https://github.com/shivanshshalabh)
-
-
 
 
 
