@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshshalabh&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshshalabh" /> </p>
 
-- 🔭 I’m currently working on **Matrix**
+- 🔭 I’m currently working on **MLModelScope**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **CUDA**
 
 - 💬 Ask me about **Web Dev 🌐 && Python 🐍**
 
